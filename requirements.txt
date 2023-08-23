@@ -6,3 +6,4 @@ pandas==1.5.3
 airflow-provider-duckdb==0.0.2
 astro-sdk-python==1.5.0
 airflow-provider-great-expectations==0.2.6
+datasette==0.64.3
